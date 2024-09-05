@@ -6,3 +6,6 @@ hihaa hi aaa hi haa hiaa
 valul draguta si draguta
 adding new content below to see how to undo changes in committed files
 this is the new content 11:14 PM 9/5/2024
+one more line 11:19 PM 9/5/2024
+and another one 11:21 PM 9/5/2024 
+we have one staged files and another modification not staged
